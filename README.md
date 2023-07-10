@@ -1,4 +1,33 @@
-### Hi there 👋
+### Olá, meu nome é Rebeca Kepler 👋
+
+Sou estudante de infomrática Biomédica na Universidade Federal das Ciências da Saúde de Porto Alegre (UFCSPA).
+
+<div>
+  <a href = "https://github.com/becakep">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=becakep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  ### Tecnologias que possuo conhecimento:
+___________
+<div>
+  <div>
+   <div>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" height="50" />
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+
+ ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/rebeca-kepler-ab3615251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+</div>
 
 <!--
 **becakep/becakep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+      

@@ -1,6 +1,6 @@
 ### Olá, meu nome é Rebeca Kepler 👋
 
-Sou estudante de informática Biomédica na Universidade Federal das Ciências da Saúde de Porto Alegre (UFCSPA).
+Sou estudante de Informática Biomédica na Universidade Federal das Ciências da Saúde de Porto Alegre (UFCSPA).
 
 <div>
   <a href = "https://github.com/becakep">

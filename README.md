@@ -3,8 +3,8 @@
 Sou estudante de Informática Biomédica na Universidade Federal das Ciências da Saúde de Porto Alegre (UFCSPA).
 
 <div>
-  <a href = "https://github.com/becakep">
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=becakep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--  <a href = "https://github.com/becakep">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=becakep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
   ### Tecnologias que possuo conhecimento:
 ___________
